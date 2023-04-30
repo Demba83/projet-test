@@ -1,2 +1,2 @@
 # projet-test
-https://github.com/Demba83/projet-test.git
+https://demba83.github.io/projet-test/
